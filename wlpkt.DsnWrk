@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\altiumlib\Schematic.LibPkg
+[Project2]
+ProjectPath=..\stm32f103cb_hm\sch\stm32f103cb_hm.PrjPcb
+[Project3]
+ProjectPath=..\github\stm32f103cb_vm\sch\em32f103cb.PrjPcb
+[Project4]
+ProjectPath=..\Softwarely\Git\moisair\sch\v3\MoisAir3.PrjPCB
+[Project5]
+ProjectPath=wlpkt1\wlpkt1.PrjPcb
+[Project6]
+ProjectPath=..\..\m\altiumlib\atm.LibPkg
