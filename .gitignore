@@ -1,3 +1,6 @@
 __Previews
 History
 Project Logs*
+/sim/max68/db
+/sim/max68/incremental_db
+/sim/max68/simulation/qsim/*.vwf

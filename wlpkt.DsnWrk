@@ -12,3 +12,5 @@ ProjectPath=..\Softwarely\Git\moisair\sch\v3\MoisAir3.PrjPCB
 ProjectPath=wlpkt1\wlpkt1.PrjPcb
 [Project6]
 ProjectPath=..\..\m\altiumlib\atm.LibPkg
+[Project7]
+ProjectPath=..\WlPK\sch\v1\WlPK1.PrjPcb

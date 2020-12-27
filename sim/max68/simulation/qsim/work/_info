@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Design/wlpkt/sim/max68/simulation/qsim
+vhard_block
+Z1 !s110 1609068721
+!i10b 1
+!s100 UDI@[@fN];_lRhYjze[KE3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IEdW2MVz5`Sg8EjO?M5Ihc3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1609068720
+Z5 8max68.vo
+Z6 Fmax68.vo
+!i122 24
+L0 582 45
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1609068721.000000
+Z9 !s107 max68.vo|
+Z10 !s90 -work|work|max68.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vmax68
+R1
+!i10b 1
+!s100 GS1J;ei8z[KF5Z`9RgD4[0
+R2
+IDbPZ[2AbQ`Ljg;`h:kUV81
+R3
+R0
+R4
+R5
+R6
+!i122 24
+L0 32 549
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmax68_vlg_vec_tst
+R1
+!i10b 1
+!s100 eG>bREMO5[W6bbjo5Pl372
+R2
+IT<laM`KU@MIPR5g15M>f]0
+R3
+R0
+w1609068719
+8max68.vwf.vt
+Fmax68.vwf.vt
+!i122 25
+L0 30 58
+R7
+r1
+!s85 0
+31
+R8
+!s107 max68.vwf.vt|
+!s90 -work|work|max68.vwf.vt|
+!i113 1
+R11
+R12

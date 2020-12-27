@@ -1,3 +1,5 @@
 Record=TopLevelDocument|FileName=wlpkt1_main.SchDoc
 Record=SheetSymbol|SourceDocument=wlpkt1_main.SchDoc|Designator=Automat|SchDesignator=Automat|FileName=wlpkt1_cpu.SchDoc|SymbolType=Normal|RawFileName=wlpkt1_cpu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=wlpkt1_main.SchDoc|Designator=Przekazniki|SchDesignator=Przekazniki|FileName=wlpkt1_pk.SchDoc|SymbolType=Normal|RawFileName=wlpkt1_pk.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=wlpkt1_main.SchDoc|Designator=Wejscia|SchDesignator=Wejscia|FileName=wlpkt1_wejscia.SchDoc|SymbolType=Normal|RawFileName=wlpkt1_wejscia.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=wlpkt1_main.SchDoc|Designator=Zasilacz|SchDesignator=Zasilacz|FileName=wlpkt1_zas.SchDoc|SymbolType=Normal|RawFileName=wlpkt1_zas.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
